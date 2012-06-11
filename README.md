@@ -21,7 +21,7 @@ Also, a program named "foo" will automatically generate a file "foo.js" but you 
 ##Compiling
 
 To compile ooc code to Javascript, you will first need to get a working version of Clang (ideally 3.1).<br/>
-Then, you should follow the instructions found at [the emscripten homepage](http://emscripten.org) tog et it up and running and add the directory you installed it on to your PATH.<br/>
+Then, you should follow the instructions found at [the emscripten homepage](http://emscripten.org) to get it up and running and add the directory you installed it in to your PATH.<br/>
 Last but not least, you must compile the emscripten branch of rock. To do so, just run "make rescue"<br/>
 <br/>
 
